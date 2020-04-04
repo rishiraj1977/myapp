@@ -1,0 +1,42 @@
+p{
+    text-align: center;
+    color:red;
+}
+
+H2{
+    text-align: center;
+}
+
+a:link{
+    color: rgb(55, 95, 226);
+}
+
+a:visited{
+    color: rgb(24, 15, 15);
+}
+
+.grid{
+    margin-right: 30px; 
+}
+
+.grid a{
+    margin-left:20px;
+}
+
+h1{
+    color:black ;
+    background-color: aqua;
+    text-align: center;
+}
+
+/* .grid{
+    display: flow-root;
+    justify-content:flex-start;
+    flex-wrap: wrap;
+ } */
+
+ grid:hover{
+     font-kerning: normal;
+ }
+ 
+ 
